@@ -18,6 +18,7 @@ Create a simple web application that provide to do list function.
 * CSS3
 * jQuery v1.10.2 [link] (http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js)
 * jQuery JavaScript Library v1.8.3 (with Sizzle.js)  [link] (https://jquery.com)
+* NOTE: use cmd and install flask to access site-packages folder 'pip install flask'
 
 ##Members
 * Alvarez, Neil Patrick U. - Front-End Programmer (UI Design/Functions)
